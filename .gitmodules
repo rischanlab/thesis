@@ -1,0 +1,12 @@
+[submodule "visrec"]
+	path = visrec
+	url = git@github.com:rischanlab/visualization_recommendation_systems.git
+[submodule "diversity"]
+	path = diversity
+	url = git@github.com:rischanlab/DiVE.git
+[submodule "QoD/Data_quality_research"]
+	path = QoD/Data_quality_research
+	url = git@github.com:rischanlab/Data_quality_research.git
+[submodule "QoD/selective_imputation_recap"]
+	path = QoD/selective_imputation_recap
+	url = git@github.com:rischanlab/selective_imputation_recap.git
