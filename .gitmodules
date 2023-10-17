@@ -10,3 +10,18 @@
 [submodule "QoD/selective_imputation_recap"]
 	path = QoD/selective_imputation_recap
 	url = git@github.com:rischanlab/selective_imputation_recap.git
+[submodule "QoD/impact_incomplete_data_on_insights"]
+	path = QoD/impact_incomplete_data_on_insights
+	url = git@github.com:rischanlab/impact_incomplete_data_on_insights.git
+[submodule "QoD/observing_impact_missing"]
+	path = QoD/observing_impact_missing
+	url = git@github.com:rischanlab/observing_impact_missing.git
+[submodule "QoD/selective-imputation-project"]
+	path = QoD/selective-imputation-project
+	url = git@github.com:rischanlab/selective-imputation-project.git
+[submodule "QoD/selective_imputation"]
+	path = QoD/selective_imputation
+	url = git@github.com:rischanlab/selective_imputation.git
+[submodule "QoD/missing_on_aggregate_insights"]
+	path = QoD/missing_on_aggregate_insights
+	url = git@github.com:rischanlab/missing_on_aggregate_insights.git
